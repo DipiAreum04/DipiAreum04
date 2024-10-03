@@ -4,4 +4,4 @@
 - 👯 Working hard to be the best version of myself
 - 🤔 New to Git!
 - 😄 Pronouns: She/Her
-- ⚡ A Potterhead and an otaku
+- ⚡ A Potterhead, an army and an otaku
