@@ -2,6 +2,6 @@
 
 - 🌱 I’m currently studying Computer Engineering!
 - 👯 Working hard to be the best version of myself
-- 🤔 Interested in Hardware Language Programming and Embedded Systems
+- 🤔 Interested in Assembly Programming and Embedded Systems
 - 😄 Pronouns: She/Her
 - ⚡ A Potterhead, an army, an otaku and a nerd
